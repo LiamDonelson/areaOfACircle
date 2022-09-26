@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\bin\Debug\net6.0\A Second Program Area of the Circle.exe
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\bin\Debug\net6.0\A Second Program Area of the Circle.deps.json
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\bin\Debug\net6.0\A Second Program Area of the Circle.runtimeconfig.json
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\bin\Debug\net6.0\A Second Program Area of the Circle.dll
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\bin\Debug\net6.0\A Second Program Area of the Circle.pdb
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\A Second Program Area of the Circle.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\A Second Program Area of the Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\A Second Program Area of the Circle.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\A Second Program Area of the Circle.AssemblyInfo.cs
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\A Second Program Area of the Circle.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\A Second Program Area of the Circle.dll
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\refint\A Second Program Area of the Circle.dll
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\A Second Program Area of the Circle.pdb
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\A Second Program Area of the Circle.genruntimeconfig.cache
+C:\Users\Liam\source\repos\A Second Program Area of the Circle\A Second Program Area of the Circle\obj\Debug\net6.0\ref\A Second Program Area of the Circle.dll
